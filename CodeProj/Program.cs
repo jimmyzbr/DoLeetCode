@@ -10,7 +10,8 @@ namespace CodeProj
             
             Solution s = new Solution();
 
-            s.TwoSum_Test();
+            // s.TwoSum_Test();
+            s.CountAndSayTest();
             
         }
     }
