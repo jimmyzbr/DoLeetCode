@@ -11,8 +11,11 @@ namespace CodeProj
             Solution s = new Solution();
 
             // s.TwoSum_Test();
-            s.CountAndSayTest();
+            //s.CountAndSayTest();
             
+           // s.PreTravelTest();
+          //  s.InOrderTravelTest();
+           s.PostOrderTravelTest();
         }
     }
 }
