@@ -15,7 +15,10 @@ namespace CodeProj
             
            // s.PreTravelTest();
           //  s.InOrderTravelTest();
-           s.PostOrderTravelTest();
+           //s.PostOrderTravelTest();
+
+           s.RevertTree_Test();
+           
         }
     }
 }
